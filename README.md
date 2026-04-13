@@ -1,2 +1,11 @@
-WiP ATAK map overlay for JBLM TAs. Currently includes TAs 13, 16-23.
-Additional overlays for some roads/trails in TAs 19-23.
+# WiP ATAK map overlay for JBLM TAs. 
+Currently includes entire JBLM boundary, TA 13, TA 16-23\
+Additional overlays for some roads/trails in TAs 19-23
+
+## Sources:
+iSportsman for boundaries (jblm.isportman.net)\
+ArcGIS for road names (arcgis.com)
+
+## Planned Updates:
+Finish the remaining TAs\
+Add the TA sub boundaries (21a, 21b, ect)
